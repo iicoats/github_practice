@@ -8,3 +8,4 @@ $ 1. Why is source control, especially Git, important for software development? 
 
 ** Local is on the computer,  remote is on GitHub.com.  This allows us to consult on codes or share codes while maintaining the base code on my computer unless I wanted to push it through.
 
+ https://dev.to/vishnuchilamakuru/git-cheatsheet-1oaj
